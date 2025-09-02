@@ -1,7 +1,6 @@
 # UX Portfolio
 
-About me...
-
+I am Nicolas Reiss and this is the repository for my UX portfolio assignment
 ## UX Team Project
 
 Coming soon.
