@@ -2,7 +2,7 @@
 
 I am Nicolas Reiss and this is the repository for my UX portfolio assignment. 
 
-![](./image3)
+![](./image3.jpg)
 
 
 ## UX Team Project
