@@ -11,4 +11,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[Shower Mismatch Journal](journal/)
